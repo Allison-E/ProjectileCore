@@ -1,0 +1,5 @@
+C:\Users\Allison B\Documents\Allison, Emmanuel\Projects\Projectile\ProjectileCore\bin\Debug\ProjectileCore.dll
+C:\Users\Allison B\Documents\Allison, Emmanuel\Projects\Projectile\ProjectileCore\bin\Debug\ProjectileCore.pdb
+C:\Users\Allison B\Documents\Allison, Emmanuel\Projects\Projectile\ProjectileCore\obj\Debug\ProjectileCore.dll
+C:\Users\Allison B\Documents\Allison, Emmanuel\Projects\Projectile\ProjectileCore\obj\Debug\ProjectileCore.pdb
+C:\Users\Allison B\Documents\Allison, Emmanuel\Projects\Projectile\ProjectileCore\obj\Debug\ProjectileCore.csprojResolveAssemblyReference.cache
